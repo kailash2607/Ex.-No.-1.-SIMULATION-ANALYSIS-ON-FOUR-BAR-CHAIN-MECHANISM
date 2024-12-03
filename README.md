@@ -50,13 +50,19 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
+![Screenshot 2024-12-03 125629](https://github.com/user-attachments/assets/d826faa9-ec89-40bc-83bd-4b172021d527)
+![Screenshot 2024-12-03 143122](https://github.com/user-attachments/assets/439debab-08ae-43f2-a001-e0439ef0883d)
+![Screenshot 2024-12-03 143148](https://github.com/user-attachments/assets/c755b12f-384f-4da0-8fff-3563ea0caacc)
 
 
 ## Output:
+![Screenshot 2024-12-03 143814](https://github.com/user-attachments/assets/b9ccd78e-695b-4970-b8f5-009394113353)
+
+![Screenshot 2024-12-03 143830](https://github.com/user-attachments/assets/3b34398a-9330-4f67-93d8-d30d4c889747)
 
 
-### Name:
-### Register Number: 
+### Name:KAILASH PRABHU S
+### Register Number: 24013672
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
